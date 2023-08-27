@@ -1,14 +1,20 @@
 .bg-img {
-  width: 800px;
-  height: 700px;
+  width: 700px;
+  height: 600px;
 }
 
 .bg-img1 {
   float: right;
 }
 
+
 .d-flex {
   margin: 0;
+}
+
+.carousel-indicators {
+  position: relative;
+  bottom: 30px;
 }
 
 footer .container {
